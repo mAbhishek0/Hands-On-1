@@ -1,0 +1,4 @@
+written by fd
+written by dup
+written by dup2
+written by fcntl
